@@ -1,0 +1,81 @@
+#fishtank {
+
+}
+.fish{
+
+}
+.fish__name {
+    
+}
+
+body {
+    margin: 15px;
+    background-color: rgb(142, 211, 188);
+}
+
+img {
+    width: 50%;
+    height: 50%;
+    text-align: center;
+}
+
+header {
+    display: flex;
+    justify-content: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: xx-large;
+    margin: 15px;
+    font-weight: bold;
+}
+
+.nav {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:large;
+    margin: 15px;
+    border: 3px solid #777;
+    padding-left: 125px;
+    padding-right: 125px;
+    font-style: italic;
+}
+
+table {
+    font-family: Arial, Helvetica, sans-serif;
+    width: 45%;
+    height: 45%;
+    display: flex;
+    align-items: left;
+    text-align: center;
+}
+
+section {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.clean {
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    border: 2px solid #777;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:large;
+    margin: 15px;
+    text-decoration: none;
+    width: 30%;
+    height: 50%;
+}
+
+.clean h4 {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+
+.tips {
+    border: 5px dotted #777;
+    padding: 5px;
+    margin: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+}
